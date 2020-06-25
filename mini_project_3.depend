@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1592924820 source:d:\learning\projects of programming 2\mini_project_3\mini_project_3\main.cpp
+	<iostream>
+	<fstream>
+	<array>
+	<vector>
+	<cstdlib>
+	<ctime>
+
